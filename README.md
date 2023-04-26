@@ -13,7 +13,7 @@ Creare un secondo componente AppHero, che visualizza un jumbotron.
 
 ## Steps
 
-**Creazione cartella:**
+**Creazione progetto Vite:**
 
 1) Con i comandi del terminale entro nella cartella che mi interessa;
     - Creo una cartella con il nome della repo:
